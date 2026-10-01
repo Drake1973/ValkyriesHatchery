@@ -1,0 +1,10 @@
+{
+  "name": "ValkyriesHatchery",
+  "version_number": "0.6.0",
+  "website_url": "https://github.com/Drake1973/ValkyriesHatchery",
+  "description": "Raise fish at home. Build a hatchery, fill it with roe from Haldor, and collect fish over time, earning Fishing skill without the minigame. Fish unlock with boss kills. Server-synced settings.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333",
+    "ValheimModding-Jotunn-2.30.2"
+  ]
+}
